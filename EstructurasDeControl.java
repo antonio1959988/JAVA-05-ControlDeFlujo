@@ -57,10 +57,9 @@ public class EstructurasDeControl { //Debe coincidir la clase con el nombre de n
 		//- Investigar operador ternario ?:
 		//- Ejemplo de consultorio
 		
-		Scanner scan = New Scanner(System.in);
 		
 		//Ingresando una edad del paciente
-		int edadPaciente = scan.nextInt();
+		int edadPaciente = 34;
 		
 		System.out.println("Evaluando si el paciente es apto para medicamento...");
 		
